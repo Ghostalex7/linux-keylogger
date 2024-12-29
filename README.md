@@ -25,3 +25,11 @@ This project is for **educational purposes only**. Unauthorized use may break la
 2. Install dependencies:
    ```bash
    pip3 install -r requirements.txt
+## Usage
+
+Run the keylogger with:
+
+The terminal will minimize, and the keystrokes will be logged in keylogger_output.txt. The script stops automatically after a set time or can be terminated manually.
+   ```bash
+   python3 keylogger.py
+
