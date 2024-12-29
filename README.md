@@ -20,7 +20,7 @@ This project is for **educational purposes only**. Unauthorized use may break la
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/keylogger-linux.git
+   git clone https://github.com/Ghostalex7/keylogger-linux.git
    cd keylogger-linux
 2. Install dependencies:
    ```bash
