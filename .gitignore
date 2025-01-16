@@ -1,0 +1,26 @@
+# Ignore PyInstaller output directories
+dist/
+build/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore temporary and log files
+*.log
+*.tmp
+keylogger_output.txt
+
+# Ignore virtual environment folders
+env/
+venv/
+
+# Ignore configuration files from IDEs
+.vscode/
+.idea/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
