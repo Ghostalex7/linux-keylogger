@@ -1,6 +1,6 @@
-# Keylogger Linux
+# Keylogger Linux mint
 
-**Keylogger Linux** is a simple tool that records all keyboard input on Linux systems and saves it to a text file with timestamps.
+**Keylogger Linux mint** is a simple tool that records all keyboard input on Linux systems and saves it to a text file with timestamps.
 
 ## ⚠️ Disclaimer
 
@@ -26,8 +26,9 @@ This project is for **educational purposes only**. Unauthorized use may break la
    ```bash
    pip3 install -r requirements.txt
 ## Usage
-
-Run the keylogger with:
+1.Run the keylogger file:
+keylogger
+2.Run the keylogger with:
 
 The terminal will minimize, and the keystrokes will be logged in keylogger_output.txt. The script stops automatically after a set time or can be terminated manually.
    ```bash
