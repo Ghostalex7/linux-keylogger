@@ -26,8 +26,11 @@ This project is for **educational purposes only**. Unauthorized use may break la
    ```bash
    pip3 install -r requirements.txt
 ## Usage
+
 1.Run the keylogger file:
+
 keylogger
+
 2.Run the keylogger with:
 
 The terminal will minimize, and the keystrokes will be logged in keylogger_output.txt. The script stops automatically after a set time or can be terminated manually.
